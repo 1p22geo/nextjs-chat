@@ -12,7 +12,7 @@
 		"socket-proxy": "node ./ssl/sockets.js"
 	},
 	"dependencies": {
-		"@types/node": "20.10.4",
+		"@types/node": "20.10.7",
 		"@types/react": "18.2.45",
 		"@types/react-dom": "18.2.18",
 		"autoprefixer": "10.4.14",
